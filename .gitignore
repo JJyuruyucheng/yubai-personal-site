@@ -1,0 +1,17 @@
+# Local tools, generated QA screenshots, and machine-specific checks
+node_modules/
+.openai/
+.sites-runtime/
+.local-tools/
+qa/
+qa.cjs
+*.log
+.DS_Store
+Thumbs.db
+
+# Never commit local credentials
+.env
+.env.*
+!.env.example
+
+# dist/ is the maintained, publishable website source.

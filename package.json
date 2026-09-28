@@ -1,0 +1,1 @@
+{"name":"yubai-personal-space-demo","version":"1.0.0","private":true,"description":"A local, dependency-free personal website demo.","scripts":{"dev":"node server.cjs","start":"node server.cjs"}}
